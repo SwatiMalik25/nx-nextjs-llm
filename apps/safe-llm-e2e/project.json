@@ -1,0 +1,9 @@
+{
+  "name": "safe-llm-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/safe-llm-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["safe-llm"],
+  "// targets": "to see all targets run: nx show project safe-llm-e2e --web",
+  "targets": {}
+}
