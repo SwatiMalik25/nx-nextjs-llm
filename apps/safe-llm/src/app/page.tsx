@@ -1,10 +1,10 @@
 
 
 // eslint-disable-next-line @nx/enforce-module-boundaries
-import { Button } from '../../../../shared/src/components/ui/button';
-import Layout from '../../../safe-llm/src/app/components/layout';
-import About from '../../../safe-llm/src/app/about/page';
-import Contact from '../app/contact/page'
+import { Button } from 'shared/src/components/ui/button';
+import Layout from 'apps/safe-llm/src/app/components/layout';
+import About from 'apps/safe-llm/src/app/about/page';
+import Contact from 'apps/safe-llm/src/app/contact/page'
 
 export default async function Index() {
   return (
